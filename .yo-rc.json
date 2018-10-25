@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8099,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "ZWRmZDc4YWI2YTZjMWU1MTk5OWU1YWIwNWYyOGY4YWY3NWU1Mzc5MTgwMWM5MWY4ZDA2YTc0YTJjMTg5MzE2MGE3MWNjNDFjMjYxYTRhM2U0MzhjMTUwY2UxMTMwZDNiYTFkOWNjNzIxMmE1ZGFmOWVhYTNiMmJiN2MwYjVhNDk="
+  },
+  "git-provider": "GitHub",
+  "git-company": "edwincarmona",
+  "repository-name": "jhipster-sample-application"
+}
